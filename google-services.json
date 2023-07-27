@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436788188440",
+    "project_id": "utrgvfreshpicks",
+    "storage_bucket": "utrgvfreshpicks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436788188440:android:a21cfcb87a131b3e1a7a6d",
+        "android_client_info": {
+          "package_name": "COM.EXAMPLE.APPNAME"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436788188440-9v84afsf0bqpkt0amklcp92o4n6uj550.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "APIKEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436788188440-9v84afsf0bqpkt0amklcp92o4n6uj550.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
